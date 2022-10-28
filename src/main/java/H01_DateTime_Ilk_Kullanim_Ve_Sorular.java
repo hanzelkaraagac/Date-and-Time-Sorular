@@ -158,8 +158,6 @@ public class H01_DateTime_Ilk_Kullanim_Ve_Sorular {
         System.out.println("Ali: " + dobAli2);
         System.out.println("Veli " + dobVeli1);
 
-        //tesekkurler
-
 
 
 
