@@ -31,6 +31,9 @@ public class H01_DateTime_Ilk_Kullanim {
 
         System.out.println(currentDateTimeInJapan);//2022-10-22T02:50:51.524172
 
+        LocalDateTime floridaAnlik = LocalDateTime.now(ZoneId.of("US/Eastern") );
+        System.out.println("floridaAnlik = " + floridaAnlik);//2022-10-27T20:28:03.366767
+
         //Example 5:Istanbul'daki "Anlik tarihi" (Current Date) ve "Anlik zamani" (Current Time) ekrana yazdiran kodu yaziniz.
 
 
